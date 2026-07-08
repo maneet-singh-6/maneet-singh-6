@@ -24,5 +24,5 @@ I recently completed Dev Academy Aotearoa's intensive full-stack software develo
 
 ### 🤝 Let's Connect
 
-* [Linkedin](www.linkedin.com/in/msb6)
+* [Linkedin](https://www.linkedin.com/in/msb6)
 * [GitHub](https://github.com/maneet-singh-6)
