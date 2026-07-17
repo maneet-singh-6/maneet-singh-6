@@ -13,6 +13,10 @@ I recently completed Dev Academy Aotearoa's intensive full-stack software develo
 
 * **Why we built this:** Our team wanted to make every new coder have a fun and easy way to practice their coding speed, accuracy, and learn the code along the way. We built "Syntax Sprint" to gamify muscle-memory coding skills and grow awareness of those special characters on the keyboard, so they don't slow them down during real work!
 * **My Role:** I acteed as the agile facilitator in this project, alongside leading the development of integrating a shared Supabase client, requireAuth middleware, a CORS/env smoke test, and establishing an Auth database.
+
+** [blog](https://github.com/maneet-singh-6/blog)** — my first code, and the start of the journey
+
+* A learning journal from the first six weeks of the bootcamp — HTML/CSS fundamentals, and reflections on mindset, emotional intelligence, and neuroplasticity as I applied them to actually learning to code. Not polished, but it's the beginning.
 ---
 
 ### 🛠️ Tech Stack
